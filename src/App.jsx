@@ -1,4 +1,4 @@
-import CurrencyConverter from "./section/currencyConverter";
+import CurrencyConverter from "./section/CurrencyConverter";
 
 const App = () => {
   return (
